@@ -35,4 +35,7 @@ flee  :	Whether the person attempted to flee<br>
 -Number of individuals armed, unarmed<br>
 -Yearly trend in fatal encounters<br>
 -Percentage of people killed by police have been diagnosed with a mental illness<br>
--Visualization of geographic distribution using maps
+-Visualization of geographic distribution using maps<br>
+<br>
+To run this notebook, please clone this.<br>
+git clone https://github.com/Thanakorn2717/Data_Analytics_US_Fatalites_Analysis_Python.git
