@@ -4,10 +4,10 @@ The dataset provides insight into the demographics, circumstances, and context s
 <br>
 📊 **Project Overview**<br>
 This project aims to:<br>
--Understand the demographics (age, race, gender) of individuals involved<br>
--Analyze patterns in manner of death, threat level, and whether the person was armed<br>
--Investigate correlations between mental illness, fleeing behavior, and outcomes<br>
--Identify trends over time and across states<br>
+-Analyze patterns in manner of death, and whether the person was armed<br>
+-Investigate correlations between poverty pates and high school graduation rates<br>
+-Identify trends over time<br>
+-Understand the demographics of each state, racial group percentages across states<br>
 <br>
 🧾 **Dataset**<br> 
 There are 5 datasets: Fatalities, US census data on poverty rate, high school graduation rate, median household income, and racial demographics.<br> 
